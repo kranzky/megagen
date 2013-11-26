@@ -1,0 +1,13 @@
+__MACOSX
+.DS_Store
+#*#
+*~
+TAGS
+tmp/
+log/
+.bundle
+.project
+dumps/
+vendor
+TODO.txt
+books/
